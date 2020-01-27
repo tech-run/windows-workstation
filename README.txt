@@ -1,6 +1,6 @@
 # Windows Workstation Provisioning Scripts
 
-The purpose of these scripts is to automatically install all tools required to be a contributing engineer within the Everyday Banking Tribe.
+The purpose of these scripts is to automatically install all tools required.
 
 ### First-time users
 
