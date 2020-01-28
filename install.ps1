@@ -10,6 +10,7 @@ if (!(Get-Command "choco.exe" -ErrorAction SilentlyContinue)){
 .\7zip.ps1
 .\notepad-plus-plus.ps1
 .\passwordsafe.ps1
+.\treesizefree.ps1
 
 .\git.ps1
 .\jdk8.ps1
