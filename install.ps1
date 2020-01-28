@@ -9,11 +9,15 @@ if (!(Get-Command "choco.exe" -ErrorAction SilentlyContinue)){
 # Execute the application installers
 .\7zip.ps1
 .\notepad-plus-plus.ps1
-.\git.ps1
-.\putty.ps1
-.\jdk8.ps1
 .\passwordsafe.ps1
+
+.\git.ps1
+.\jdk8.ps1
 .\maven.ps1
+
+.\putty.ps1
+.\winscp.ps1
+
 # Return to root directory
 cd ..
 
