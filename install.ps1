@@ -19,6 +19,8 @@ if (!(Get-Command "choco.exe" -ErrorAction SilentlyContinue)){
 .\putty.ps1
 .\winscp.ps1
 
+.\vscode.ps1
+
 # Return to root directory
 cd ..
 
