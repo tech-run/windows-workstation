@@ -1,1 +1,1 @@
-choco install vscode -y
+choco install vscode -y --params /NoDesktopIcon /NoQuicklaunchIcon
